@@ -7,8 +7,24 @@
 ---
 
 ## Table of Contents
--  [C++](#C++)
--  [Java](#java)
--  [License](#LICENSE)
+- [C++](#c)  
+- [Java](#java)  
+- [License](#license)  
 
 ---
+
+## C++
+
+Content for C++ solutions.
+
+---
+
+## Java
+
+Content for Java solutions.
+
+---
+
+## License
+
+Apache 2.0 License
