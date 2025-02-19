@@ -9,6 +9,6 @@
 ## Table of Contents
 -  [C++](#C++)
 -  [Java](#java)
--  [License](#license)
+-  [License](#LICENSE)
 
 ---
